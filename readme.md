@@ -103,8 +103,8 @@ lista adicionando *, - ou +
 
 Para utilizar sublistas, nos sub-ítems adicione 2 espaçamento ou aperte o tab uma vez:
 item1
-sub-item1
-subitem2
+ sub-item1
+ subitem2
 item2
   
 item3
